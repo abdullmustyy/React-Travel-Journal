@@ -1,4 +1,5 @@
 # My Travel Journal
+- [Live preview ↗](https://react-travel-journall.netlify.app/)
 
 Quick start:
 
